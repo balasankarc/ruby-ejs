@@ -1,5 +1,5 @@
-ruby-ejs (1.1.1-1) UNRELEASED; urgency=medium
+ruby-ejs (1.1.1-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #766666)
 
- -- Balasankar C <balasankarc@autistici.org>  Sat, 25 Oct 2014 00:36:14 +0530
+ -- Balasankar C <balasankarc@autistici.org>  Fri, 24 Oct 2014 18:11:56 +0530
