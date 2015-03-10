@@ -8,7 +8,7 @@ Standards-Version: 3.9.6
 Vcs-Git: git://anonscm.debian.org/pkg-ruby-extras/ruby-ejs.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-ruby-extras/ruby-ejs.git;a=summary
 Homepage: https://github.com/sstephenson/ruby-ejs/
-Testsuite: autopkgtest
+Testsuite: autopkgtest-pkg-ruby
 XS-Ruby-Versions: all
 
 Package: ruby-ejs
